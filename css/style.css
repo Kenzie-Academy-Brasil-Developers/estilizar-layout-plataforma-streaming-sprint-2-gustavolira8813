@@ -21,8 +21,10 @@ SUGESTÃO DE ESTRUTURAÇÃO BASE
 
 /*BODY*/
 	body{
-		background-color: black;
+		background-color: #00002e;
 		color: white;
+		font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+
 	}
 
 /*TOPO*/
